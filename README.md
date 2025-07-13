@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Jérémy! | @jeremw264
+## 👋 Hi, I'm Jérémy! | @jwoirhaye
 
 🎓 Currently pursuing a Master's degree in Software Engineering through an Apprenticeship, I am passionate about software development, DevOps, and emerging technologies. My academic and professional journey allows me to blend theory and practice by applying my knowledge in a real-world professional setting.
 
