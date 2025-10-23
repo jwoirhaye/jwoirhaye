@@ -1,17 +1,10 @@
 ## 👋 Hi, I'm Jérémy! | @jwoirhaye
 
-🎓 Currently pursuing a Master's degree in Software Engineering through an Apprenticeship, I am passionate about software development, DevOps, and emerging technologies. My academic and professional journey allows me to blend theory and practice by applying my knowledge in a real-world professional setting.
-
-💻 My areas of expertise include application development, software design, operations management (DevOps), and algorithmic problem-solving. I have a particular affinity for technologies such as Spring and Angular, and I have gained practical experience with tools like Jenkins and cloud platforms like Azure.
-
-🚀 In addition to my studies, I engage in side projects driven by my passion for innovation and continuous improvement.
+I am a PhD candidate in Cloud Computing at Inria (advised by Thomas Ledoux, IMT Atlantique, and Romain Rouvoy, University of Lille). My research focuses on microservice architectures and their deployment in cloud environments, with emphasis on resource optimization and energy efficiency. I explore intelligent slicing techniques to partition microservice applications proactively and at runtime to improve orchestration while accounting for infrastructure constraints (network, storage, CPU, memory). Passionate about cloud-native technologies, containers, Kubernetes, and distributed systems.
 
 ## 🚀 Frameworks & Library
 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
@@ -33,8 +26,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -62,9 +53,7 @@
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 🎋 ORM
 
